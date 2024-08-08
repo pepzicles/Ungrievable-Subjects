@@ -7,4 +7,5 @@ by Katherine Moriwaki
 <insert project description here>
 
 ## Materials used
-1. 
+1.[Ceramic Heater from Thor Labs](https://www.thorlabs.com/thorproduct.cfm?partnumber=HT10KR2) 
+
