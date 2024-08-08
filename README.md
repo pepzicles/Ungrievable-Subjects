@@ -2,7 +2,7 @@
 by Katherine Moriwaki
 
 <br>
-<img src="thumbnail.JPG" alt="demo" width="600"/>
+<img src="Images/thumbnail.JPG" alt="demo" width="600"/>
 
 ## About
 <insert project description here>
