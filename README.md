@@ -1,7 +1,7 @@
 # Ungrievable Subjects 
 by Katherine Moriwaki
 
-<img src="Images/thumbnail.JPG" alt="demo" width="600"/>
+<img src="Documentation/thumbnail.JPG" alt="demo" width="600"/>
 
 ## About
 <insert project description here>
