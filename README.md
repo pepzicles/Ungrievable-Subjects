@@ -1,2 +1,2 @@
-# Ungrievable-Subjects
-For Katherine Moriwaki
+# Ungrievable Subjects by Katherine Moriwaki
+
