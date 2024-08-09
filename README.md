@@ -9,7 +9,7 @@ by [Katherine Moriwaki](https://kakirine.com/)
 ## Materials used
 1. [Ceramic Heater from Thor Labs](https://www.thorlabs.com/thorproduct.cfm?partnumber=HT10KR2)
 2. [Custom PCB by Lauria Clarke](https://lauriaclarke.com/Ungreivable-Subjects)
-3. Custom fabric 
+3. Custom fabric for vest by Katherine Moriwaki
 
 ## Process
 This project was split into 3 main parts: 
