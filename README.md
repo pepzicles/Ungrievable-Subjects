@@ -21,3 +21,6 @@ This project was split into 3 main parts:
 6. Creating the wearable vest by Katherine Moriwaki
 7. Documentation by Katherine Moriwaki and Pepi Ng
 
+## Contact 
+If you have any questions, thoughts or comments about this piece, do contact [Katherine Moriwaki](https://kakirine.com/) at moriwakk@newschool.edu
+
