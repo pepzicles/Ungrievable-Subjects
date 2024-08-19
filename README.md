@@ -10,6 +10,15 @@ by [Katherine Moriwaki](https://kakirine.com/)
 1. [Ceramic Heater from Thor Labs](https://www.thorlabs.com/thorproduct.cfm?partnumber=HT10KR2)
 2. [Custom PCB by Lauria Clarke](https://lauriaclarke.com/Ungreivable-Subjects)
 3. Custom fabric for vest by Katherine Moriwaki
+4. JST PH 4-Pin Cable - Female Connector
+5. 3D printed PCB encasing
+6. Sewing materials, thread
+
+## Equipment used
+1. Sewing machine to create the vest
+2. Mannequin
+3. Drill press with hole dozer and drill bits (to cut circular copper piece)
+4. 3D printer
 
 ## Process
 This project was split into 3 main parts: 
