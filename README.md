@@ -23,7 +23,7 @@ What are the implications of constructing a machine, composed of custom built el
 ## Equipment used
 1. Sewing machine to create the vest
 2. Mannequin
-3. Drill press with hole dozer and drill bits (to cut circular copper piece)
+3. Drill press with 1-3/16" hole dozer and drill bits (to cut circular copper piece)
 4. 3D printer
 
 ## Process
